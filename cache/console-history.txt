@@ -1,0 +1,10 @@
+.exit
+.help
+exit()
+quit()
+exit
+(await token.balanceOf("0x4229718139f233Ee78c95e2e8F2392a0d353dC85")).toString()
+await token.safeMint("0x4229718139f233Ee78c95e2e8F2392a0d353dC85", "https://ipfs.filebase.io/ipfs/QmXrhPaKQQgwp7pVydD1WwXmABHeiozXZCHUraXqHnQwFy");
+(await token.balanceOf("0x4229718139f233Ee78c95e2e8F2392a0d353dC85")).toString()
+(await token.balanceOf("0xdd2fd4581271e230360230f9337d5c0430bf44c0")).toString()
+const token = await (await ethers.getContractFactory("W3ia")).attach("0xC661012719744ED3E4676Fe34998cf80bDD0958F");
